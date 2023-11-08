@@ -16,6 +16,7 @@ There are two different branches associated with this lesson.
 ## Files in this Lesson
 - `index.js`
 - `index.html`
+  - code provided
 - `style.css`
   - code provided
 
@@ -23,8 +24,15 @@ There are two different branches associated with this lesson.
 - [w3 Schools](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 - [w3 Schools Forms](https://www.w3schools.com/html/html_forms.asp)
+- [w3 Schools Table](https://www.w3schools.com/html/html_tables.asp)
 
 ## Challenges
 *All challenge solutions will be up to the instructor as to how they are provided.*
 
 ---
+
+**Where's Waldo - Broken Program**
+
+Sometimes we are handed code that is just broken and it's up to us to fix what has been built. This challenge is a semi-completed project that has various bugs within it. You will need to track the error messages within the browser and use VS Code to help track the errors within.
+
+Go to this [repo](https://github.com/burlingtoncodeacademy-students/U4_BrokenApp_Waldo_Student) and fork it to your own account. Review the `ReadMe.md` within that repo for further instructions.
